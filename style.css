@@ -1,0 +1,20 @@
+body{
+    background: lightgray;
+}
+body {
+            background-color: lightgray;
+            color:#003;
+        }
+        h1, h2, h3{
+            color: red;
+            font-size: em;
+            font-family: Arial, sans-serif;
+        }
+        p {
+            background-color:orchid;
+            color: white;
+        }
+        ul{
+            background-color:pink;
+            color: purple;
+        }
